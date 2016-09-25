@@ -5,23 +5,23 @@
 var initialitems = [
   {
     name: "oranges",
-    quantity: "5"
+    quantity: 5
   },
   {
     name: "pears",
-    quantity: "7"
+    quantity: 7
   },
   {
     name: "spinach",
-    quantity: "3"
+    quantity: 3
   },
   {
     name: "broccoli",
-    quantity: "4"
+    quantity: 4
   },
   {
     name: "kale",
-    quantity: "9"
+    quantity: 9
   }
 ];
 
